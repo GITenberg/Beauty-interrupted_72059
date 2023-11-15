@@ -1,0 +1,29 @@
+_repo: Beauty-interrupted_72059
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fontenay, Charles L.
+    alias: Fontenay, Charles Louis
+    birthdate: 1917
+    deathdate: 2007
+    gutenberg_agent_id: '9500'
+    url: http://www.gutenberg.org/2009/agents/9500
+    wikipedia: https://en.wikipedia.org/wiki/Charles_L._Fontenay
+description: ''
+gutenberg_issued: '2023-11-07'
+identifiers:
+  gutenberg: '72059'
+language: en
+pgterms:marc905: 20230916070904fontenay
+pgterms:marc906: '1958'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Beauty interrupted
+url: http://www.gutenberg.org/ebooks/72059
